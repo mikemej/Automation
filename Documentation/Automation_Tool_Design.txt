@@ -1,0 +1,5 @@
+Automation Tool
+
+The porpose of this tool is try to automatize the most steps as can be possible of the current Triage process.
+
+Triage process
